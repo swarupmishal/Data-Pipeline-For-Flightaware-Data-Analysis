@@ -21,6 +21,7 @@ The app requires a configuration file where the names of the aircrafts are defin
 *	aircraft_names: This is a list of aircraft names that you want to do the analysis for.
 
 You can find the screenshot of the sample configuration file used for this project,
+![Image of sample config file](https://github.com/swarupmishal/exploratory-flightaware-data-analysis/blob/master/images/sample_config_file.png)
  
 ## Execution
 To execute the app, one can call the ‘__main__.py’ file provided in the base directory of the tool. To call the tool use the Python virtual environment where all the required modules are installed. The tool expects the path to the configuration file as a first argument to the call. Just use the command,
@@ -28,6 +29,7 @@ To execute the app, one can call the ‘__main__.py’ file provided in the base
 `<path to virtual env>\python.exe __main__.py conf\config.json`
 
 I wanted to containerize the application but, due to lack of time I was not able to do it. A sample screenshot of how I call the app is shown below,
+![Image of sample python call](https://github.com/swarupmishal/exploratory-flightaware-data-analysis/blob/master/images/sample_python_call.png)
  
 The app scrapes data from the URL passed in the config file and generates some reports into the data directory defined in the config file.
 
