@@ -26,6 +26,7 @@ You can find the screenshot of the sample configuration file used for this proje
 To execute the app, one can call the ‘__main__.py’ file provided in the base directory of the tool. To call the tool use the Python virtual environment where all the required modules are installed. The tool expects the path to the configuration file as a first argument to the call. Just use the command,
 
 `<path to virtual env>\python.exe __main__.py conf\config.json`
+
 I wanted to containerize the application but, due to lack of time I was not able to do it. A sample screenshot of how I call the app is shown below,
  
 The app scrapes data from the URL passed in the config file and generates some reports into the data directory defined in the config file.
