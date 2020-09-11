@@ -1,7 +1,7 @@
 # exploratory-flightaware-data-analysis
 
 ## Introduction
-I have developed an automated app called “Exploratory FlightAware Data Analysis” to fetch aircraft data from the website ‘https://flightaware.com/live/aircrafttype/’. The app fetches requested aircraft data and builds some analysis on top of it.
+I have developed an automated app called “Exploratory FlightAware Data Analysis” to fetch aircraft data from the [FlightAware website.](https://flightaware.com/live/aircrafttype/) The app fetches requested aircraft data and builds some analysis on top of it.
 
 ## Pre-requisites
 The app is developed using in Python. Most of the libraries used for developing the tool are from the Standard Python libraries. One needs to make sure the virtual environment used for running the tool has the following external modules installed,
@@ -24,7 +24,8 @@ You can find the screenshot of the sample configuration file used for this proje
  
 ## Execution
 To execute the app, one can call the ‘__main__.py’ file provided in the base directory of the tool. To call the tool use the Python virtual environment where all the required modules are installed. The tool expects the path to the configuration file as a first argument to the call. Just use the command,
-‘<path to virtual env>\python.exe __main__.py conf\config.json’
+
+`<path to virtual env>\python.exe __main__.py conf\config.json`
 I wanted to containerize the application but, due to lack of time I was not able to do it. A sample screenshot of how I call the app is shown below,
  
 The app scrapes data from the URL passed in the config file and generates some reports into the data directory defined in the config file.
