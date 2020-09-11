@@ -1,0 +1,32 @@
+Ident,Type,Origin,Destination,Departure,Estimated Arrival Time,Estimated Time Enroute,Flight Plan,Estimated Time Enroute in Minutes
+ N44UF,BE20,Wittman Rgnl (KOSH),,Fri 10:29AM CDT,,NULL,Not Available,
+ CWA928,BE20,Fort McMurray (CYMM),Edmonton Int'l (CYEG),Fri 09:28AM MDT,Fri 10:25AM MDT,00:57,Available,57.0
+ N251CF,BE20,Mc Gregor Executive (KPWG),Curtis Field (KBBD),Fri 10:19AM CDT,Fri 10:57AM CDT,00:37,Available,37.0
+ N409RA,BE20,Salt Lake City Intl (KSLC),Gowen Field (KBOI),Fri 09:17AM MDT,Fri 10:28AM MDT,01:10,Available,70.0
+ ZK-FDS,BE20,Christchurch Int'l (CHC / NZCH),Woodbourne (BHE / NZWB),Sat 03:13AM NZST,Sat 03:48AM NZST,00:35,Available,35.0
+ N1HX,BE20,Johnson County Executive (KOJC),Poplar Bluff Muni (KPOF),Fri 10:10AM CDT,Fri 11:10AM CDT,01:14,Available,74.0
+ N891JW,BE20,Baker City Muni (KBKE),Vernal Rgnl (KVEL),Fri 08:09AM PDT,Fri 10:52AM MDT,01:49,Available,109.0
+ N988WC,BE20,Toledo Executive (KTDZ),Gainesville Rgnl (KGNV),Fri 11:08AM EDT,Fri 01:44PM EDT,02:32,Available,152.0
+ RIV154,BE20,Toulouse-Blagnac (TLS / LFBO),Lorient South Brittany (LRT / LFRH),Fri 05:06PM CEST,Fri 06:29PM CEST,01:15,Available,75.0
+ ULA200,BE20,Eppley Airfield (KOMA),Holyoke (KHEQ),Fri 10:02AM CDT,Fri 10:19AM MDT,01:17,Available,77.0
+ FD456,BE20,Townsville Int'l / RAAF (TSV / YBTL),Mount Isa (ISA / YBMA),Sat 01:00AM AEST,Sat 02:49AM AEST,01:37,Available,97.0
+ N912MF,BE20,Jack Mc Namara Field (KCEC),Mc Clellan Airfield (KMCC),Fri 08:00AM PDT,Fri 08:59AM PDT,00:41,Available,41.0
+ CWA927,BE20,Calgary Int'l (CYYC),Medicine Hat (CYXH),Fri 09:00AM MDT,Fri 09:40AM MDT,00:40,Available,40.0
+ N223MW,BE20,Midland Airpark (KMDD),Colorado Sprgs Muni (KCOS),Fri 09:58AM CDT,Fri 10:45AM MDT,01:48,Available,108.0
+ N982RA,BE20,Wheeler Downtown (KMKC),Aspen-Pitkin County (KASE),Fri 09:49AM CDT,Fri 11:14AM MDT,02:37,Available,157.0
+ N17VA,BE20,Visalia Muni (KVIS),Santa Barbara Muni (KSBA),Fri 07:40AM PDT,Fri 08:32AM PDT,00:35,Available,35.0
+ FD425,BE20,Brisbane (BNE / YBBN),Thangool (THG / YTNG),Sat 12:35AM AEST,Sat 01:37AM AEST,00:57,Available,57.0
+ N806KM,BE20,Atoka Muni (KAQR),River Falls (H81),Fri 09:34AM CDT,Fri 10:48AM CDT,01:08,Available,68.0
+ MVP20,BE20,Oakland County Intl (KPTK),Waukesha County (KUES),Fri 10:33AM EDT,Fri 10:34AM CDT,00:58,Available,58.0
+ N200WX,BE20,Valley Intl (KHRL),Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL),Fri 09:23AM CDT,Fri 11:23AM CDT,01:51,Available,111.0
+ N239JV,BE20,Oakland County Intl (KPTK),Charleston Executive (KJZI),Fri 10:20AM EDT,Fri 01:00PM EDT,02:25,Available,145.0
+ N708WH,BE20,Lynchburg Rgnl (KLYH),Dothan Rgnl (KDHN),Fri 10:19AM EDT,Fri 11:15AM CDT,01:55,Available,115.0
+ N87CF,BE20,Clinton National (KLIT),Destin Executive (KDTS),Fri 09:18AM CDT,Fri 10:58AM CDT,01:43,Available,103.0
+ NASA528,BE20,Langley Afb (KLFI),Langley Afb (KLFI),Fri 10:11AM EDT,Fri 12:37PM EDT,03:12,Available,192.0
+ N327DW,BE20,Poplar Bluff Muni (KPOF),Dekalb-Peachtree (KPDK),Fri 09:06AM CDT,Fri 11:35AM EDT,01:22,Available,82.0
+ AELIA95,BE20,Vienna Int'l (Schwechat) (VIE / LOWW),,Fri 04:01PM CEST,,NULL,Not Available,
+ N61XP,BE20,Pickens County (KLQK),Page Field (KFMY),Fri 10:01AM EDT,Fri 12:02PM EDT,01:48,Available,108.0
+ N250NK,BE20,Shreveport Rgnl (KSHV),Cotulla-La Salle County (KCOT),Fri 08:56AM CDT,Fri 10:32AM CDT,01:26,Available,86.0
+ N17WG,BE20,La Aurora Int'l (GUA / MGGT),,Fri 07:56AM CST,,NULL,Not Available,
+ N200WB,BE20,Meadows Field (KBFL),Lewistown Muni (KLWT),Fri 06:30AM PDT,Fri 10:50AM MDT,03:15,Available,195.0
+ FLASH14,BE20,El Dorado Int'l (BOG / SKBO),,Fri 07:47AM -05,,NULL,Not Available,

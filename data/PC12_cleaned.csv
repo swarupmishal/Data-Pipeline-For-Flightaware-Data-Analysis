@@ -1,0 +1,72 @@
+Ident,Type,Origin,Destination,Departure,Estimated Arrival Time,Estimated Time Enroute,Flight Plan,Estimated Time Enroute in Minutes
+ N48XB,PC12,Kelly Field (KSKF),Stevens Field (KPSO),Fri 10:31AM CDT,Fri 12:16PM MDT,02:33,Available,153.0
+ N464TT,PC12,Huntsville Executive (KMDQ),Destin Executive (KDTS),Fri 10:28AM CDT,Fri 11:43AM CDT,01:10,Available,70.0
+ N92AG,PC12,Anchorage Intl (PANC),Dillingham (DLG / PADL),Fri 07:23AM AKDT,Fri 08:41AM AKDT,01:18,Available,78.0
+ N62NG,PC12,Grant County (KSVC),Midwest Ntl (KGPH),Fri 09:22AM MDT,Fri 01:12PM CDT,02:49,Available,169.0
+ N917JG,PC12,Truckee-Tahoe (KTRK),Shively Field (KSAA),Fri 08:20AM PDT,Fri 11:44AM MDT,02:24,Available,144.0
+ N399NG,PC12,Grant County (W99),Washington Dulles Intl (KIAD),Fri 11:20AM EDT,Fri 11:52AM EDT,00:27,Available,27.0
+ N684NG,PC12,Wellington Aero Club (FD38),Fort Lauderdale Executive (KFXE),Fri 11:19AM EDT,Fri 11:50AM EDT,00:25,Available,25.0
+ CNS737,PC12,Pittsfield Muni (KPSF),Morgantown Muni (KMGW),Fri 11:17AM EDT,Fri 12:51PM EDT,01:28,Available,88.0
+ CNS4910,PC12,Merritt Island (KCOI),,Fri 11:16AM EDT,,NULL,Not Available,
+ CNS999,PC12,Igor I Sikorsky Memorial (KBDR),Nantucket Memorial (KACK),Fri 11:16AM EDT,Fri 11:54AM EDT,00:36,Available,36.0
+ PNO729,PC12,Hall Beach (CYUX),Igloolik (CYGT),Fri 11:15AM EDT,Fri 11:25AM EDT,00:10,Available,10.0
+ N929NG,PC12,Osceola Muni (7M4),Memphis Intl (KMEM),Fri 10:15AM CDT,Fri 10:33AM CDT,00:11,Available,11.0
+ N177NX,PC12,Montrose Rgnl (KMTJ),Johnson County Executive (KOJC),Fri 09:14AM MDT,Fri 12:21PM CDT,02:07,Available,127.0
+ N809TW,PC12,Francis S Gabreski (KFOK),,Fri 11:13AM EDT,,NULL,Not Available,
+ SKQ1,PC12,Burlington-Alamance Rgnl (KBUY),,Fri 11:13AM EDT,,NULL,Not Available,
+ BTQ772,PC12,Denver Intl (KDEN),Cortez Muni (KCEZ),Fri 09:11AM MDT,Fri 10:15AM MDT,01:04,Available,64.0
+ N681GH,PC12,Destin Executive (KDTS),Dekalb-Peachtree (KPDK),Fri 10:10AM CDT,Fri 12:25PM EDT,01:11,Available,71.0
+ N771WB,PC12,Beach (20U),Minot Intl (KMOT),Fri 09:09AM MDT,Fri 10:43AM CDT,00:33,Available,33.0
+ BTQ492,PC12,Dallas-Fort Worth Intl (KDFW),Greenville Mid-Delta (KGLH),Fri 10:08AM CDT,Fri 11:30AM CDT,01:28,Available,88.0
+ WSG512,PC12,Thunder Bay Int'l (Thunder Bay) (CYQT),Angling Lake/Wapekeka Airport (YAX / CKB6),Fri 11:07AM EDT,Fri 11:36AM CDT,01:29,Available,89.0
+ CNS224,PC12,Wings Field (KLOM),Newport State (KUUU),Fri 11:06AM EDT,Fri 12:08PM EDT,00:59,Available,59.0
+ N180NG,PC12,North Las Vegas (KVGT),John Wayne (KSNA),Fri 08:05AM PDT,Fri 09:07AM PDT,01:07,Available,67.0
+ N871DG,PC12,Near Araucania,,Fri 12:04PM -03,,NULL,Not Available,
+ BTQ873,PC12,Baltimore/Washington Intl (KBWI),Johnstown-Cambria Co (KJST),Fri 11:03AM EDT,Fri 11:45AM EDT,00:42,Available,42.0
+ NTF461,PC12,Warsaw Frederic Chopin (WAW / EPWA),,Fri 05:03PM CEST,,NULL,Not Available,
+ STT11,PC12,Gowen Field (KBOI),Mammoth Yosemite (KMMH),Fri 09:02AM MDT,Fri 09:37AM PDT,01:32,Available,92.0
+ CNS257,PC12,Slidell (KASD),Peter O Knight (KTPF),Fri 10:00AM CDT,Fri 12:58PM EDT,01:52,Available,112.0
+ N460PB,PC12,Golden Triangle Rgnl (KGTR),Dupage (KDPA),Fri 09:59AM CDT,Fri 12:11PM CDT,02:02,Available,122.0
+ CNS7673,PC12,Leesburg Executive (KJYO),Pittsburgh-Butler Regional Airport (KBTP),Fri 10:58AM EDT,Fri 11:41AM EDT,00:44,Available,44.0
+ N828VV,PC12,Modesto City (KMOD),Coeur D'Alene - Pappy Boyington Field (KCOE),Fri 07:58AM PDT,Fri 10:43AM PDT,02:38,Available,158.0
+ BTQ352,PC12,Portland Intl (KPDX),Eastern Oregon Rgnl (KPDT),Fri 07:56AM PDT,Fri 08:40AM PDT,00:49,Available,49.0
+ N320PW,PC12,Tallahassee Intl (KTLH),Peter O Knight (KTPF),Fri 10:55AM EDT,Fri 11:46AM EDT,00:51,Available,51.0
+ LBQ651,PC12,Manassas Rgnl (KHEF),Reading Rgnl (KRDG),Fri 10:54AM EDT,Fri 11:33AM EDT,00:36,Available,36.0
+ CNS3,PC12,Hilton Head (KHXD),Cincinnati Muni (KLUK),Fri 10:53AM EDT,Fri 12:50PM EDT,01:57,Available,117.0
+ GDS19,PC12,North Las Vegas (KVGT),McClellan-Palomar (KCRQ),Fri 07:50AM PDT,Fri 09:05AM PDT,01:04,Available,64.0
+ N432WA,PC12,Greater Cumberland Rgnl (KCBE),Grant County (W99),Fri 10:50AM EDT,Fri 11:52AM EDT,00:11,Available,11.0
+ N420GX,PC12,Roanoke Rgnl (KROA),Roanoke Rgnl (KROA),Fri 10:49AM EDT,Fri 11:38AM EDT,00:34,Available,34.0
+ KUK707,PC12,Schefferville (CYKL),Kuujjuaq (CYVP),Fri 10:47AM EDT,Fri 11:43AM EDT,00:57,Available,57.0
+ FD608,PC12,Jandakot (JAD / YPJT),Kalgoorlie-Boulder (KGI / YPKG),Fri 10:46PM AWST,Fri 11:58PM AWST,01:00,Available,60.0
+ N16NX,PC12,Rocky Mtn Metropolitan (KBJC),Rocky Mtn Metropolitan (KBJC),Fri 08:44AM MDT,Fri 09:41AM MDT,01:03,Available,63.0
+ PNO711,PC12,Alma (CYTF),Sanikiluaq (CYSK),Fri 10:43AM EDT,Fri 01:20PM EDT,02:35,Available,155.0
+ FD603,PC12,Jandakot (JAD / YPJT),Meekatharra (MKR / YMEK),Fri 10:39PM AWST,Sat 12:17AM AWST,01:33,Available,93.0
+ N42NP,PC12,Greenville Downtown (KGMU),Pensacola Intl (KPNS),Fri 10:36AM EDT,Fri 11:10AM CDT,01:29,Available,89.0
+ N412MW,PC12,Pittsburgh Intl (KPIT),South Bend Intl (KSBN),Fri 10:34AM EDT,Fri 11:53AM EDT,01:16,Available,76.0
+ CNS1849,PC12,Essex County (KCDW),Cherry Capital (KTVC),Fri 10:34AM EDT,Fri 01:05PM EDT,02:26,Available,146.0
+ FD601,PC12,Kalgoorlie-Boulder (KGI / YPKG),Jandakot (JAD / YPJT),Fri 10:31PM AWST,Sat 12:00AM AWST,01:11,Available,71.0
+ FSY185,PC12,Leamington (CLM2),Montreal/Saint-Hubert (CYHU),Fri 10:31AM EDT,Fri 12:18PM EDT,01:50,Available,110.0
+ CNS612,PC12,Cincinnati Muni (KLUK),Aiken Rgnl (KAIK),Fri 10:29AM EDT,Fri 12:05PM EDT,01:28,Available,88.0
+ FD867,PC12,Tennant Creek (TCA / YTNK),Alice Springs (ASP / YBAS),Fri 11:58PM ACST,Sat 01:09AM ACST,01:06,Available,66.0
+ N913JR,PC12,Triangle North Executive (KLHZ),Lake County Executive (KLNN),Fri 10:26AM EDT,Fri 11:59AM EDT,01:40,Available,100.0
+ CTA420,PC12,Albuquerque Intl Sunport (KABQ),North Las Vegas (KVGT),Fri 08:25AM MDT,Fri 09:27AM PDT,01:58,Available,118.0
+ N813PA,PC12,Willow Run (KYIP),,Fri 10:20AM EDT,,NULL,Not Available,
+ SKQ78,PC12,Ohio State University (KOSU),Burlington-Alamance Rgnl (KBUY),Fri 10:20AM EDT,Fri 11:34AM EDT,01:12,Available,72.0
+ PRY8,PC12,Willow Run (KYIP),Hawkins Field (KHKS),Fri 10:20AM EDT,Fri 12:14PM CDT,02:48,Available,168.0
+ N638AV,PC12,Summerville (KDYB),The Florida Keys Marathon Intl (KMTH),Fri 10:18AM EDT,Fri 12:33PM EDT,02:14,Available,134.0
+ N614P,PC12,Elizabethton Muni (0A9),Republic (KFRG),Fri 10:12AM EDT,Fri 12:36PM EDT,02:21,Available,141.0
+ CNS5,PC12,Quonset State (KOQU),Ocean City Muni (KOXB),Fri 10:06AM EDT,Fri 11:32AM EDT,01:31,Available,91.0
+ CNS1022,PC12,Beverly Rgnl (KBVY),Delaware Coastal (KGED),Fri 10:05AM EDT,Fri 11:34AM EDT,01:25,Available,85.0
+ XSN29,PC12,San Jose Int'l (KSJC),Eureka (88M),Fri 07:02AM PDT,Fri 11:20AM MDT,03:15,Available,195.0
+ N877NG,PC12,Indianapolis Intl (KIND),Morristown Muni (KMMU),Fri 10:01AM EDT,Fri 12:08PM EDT,02:08,Available,128.0
+ N650WC,PC12,Green-Warren Co Rgnl (KBWG),East Texas Rgnl (KGGG),Fri 09:00AM CDT,Fri 11:07AM CDT,02:04,Available,124.0
+ CTF124,PC12,Phoenix Sky Harbor Intl (KPHX),Missoula Intl (KMSO),Fri 06:52AM MST,Fri 11:16AM MDT,03:27,Available,207.0
+ N125LE,PC12,Dekalb-Peachtree (KPDK),Norfolk Intl (KORF),Fri 09:48AM EDT,Fri 11:37AM EDT,01:49,Available,109.0
+ CNS119,PC12,Hancock County-Bar Harbor (KBHB),Washington Dulles Intl (KIAD),Fri 09:45AM EDT,Fri 12:17PM EDT,02:27,Available,147.0
+ N535MK,PC12,Lehigh Valley Intl (KABE),,Fri 09:32AM EDT,,NULL,Not Available,
+ N724HS,PC12,Fort Lauderdale Intl (KFLL),Tri-Cities (KTRI),Fri 09:29AM EDT,Fri 12:20PM EDT,02:49,Available,169.0
+ N341WA,PC12,Martha's Vineyard (KMVY),Wilmington Intl (KILM),Fri 09:23AM EDT,Fri 11:49AM EDT,02:26,Available,146.0
+ NCJ96,PC12,Anoka Co-Blaine (KANE),Punta Gorda (KPGD),Fri 08:09AM CDT,Fri 02:09PM EDT,04:56,Available,296.0
+ N55WP,PC12,Johnson County Executive (KOJC),Portland Intl Jetport (KPWM),Fri 07:27AM CDT,Fri 12:44PM EDT,04:15,Available,255.0
+ N404AP,PC12,Bentonville Municipal  (KVBT),Columbia County (1B1),Fri 06:54AM CDT,Fri 11:45AM EDT,03:50,Available,230.0
+ N741NG,PC12,Peter O Knight (KTPF),Westerly State (KWST),Fri 07:42AM EDT,Fri 11:54AM EDT,03:55,Available,235.0

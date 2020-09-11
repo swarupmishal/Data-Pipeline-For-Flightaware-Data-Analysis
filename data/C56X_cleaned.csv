@@ -1,0 +1,40 @@
+Ident,Type,Origin,Destination,Departure,Estimated Arrival Time,Estimated Time Enroute,Flight Plan,Estimated Time Enroute in Minutes
+ EJA693,C56X,Chicago Midway Intl (KMDW),Pierre Rgnl (KPIR),Fri 10:31AM CDT,Fri 12:04PM CDT,02:00,Available,120.0
+ N821JS,C56X,Centennial (KAPA),Westchester County (KHPN),Fri 09:30AM MDT,Fri 02:58PM EDT,03:28,Available,208.0
+ N837JS,C56X,Plattsburgh Intl (KPBG),Wilkes County (KUKF),Fri 11:28AM EDT,Fri 01:07PM EDT,01:40,Available,100.0
+ N857JS,C56X,McGhee Tyson (KTYS),Centennial (KAPA),Fri 11:28AM EDT,Fri 12:22PM MDT,02:45,Available,165.0
+ N952RB,C56X,Colorado Sprgs Muni (KCOS),San Diego Intl (KSAN),Fri 09:25AM MDT,Fri 10:26AM PDT,02:02,Available,122.0
+ HTM19,C56X,Teeside Int'l (MME / EGNV),,Fri 04:22PM BST,,NULL,Not Available,
+ GAJ511,C56X,Cincinnati/Northern Kentucky International Airport (KCVG),Butler Co Rgnl-Hogan Field (KHAO),Fri 11:22AM EDT,Fri 11:42AM EDT,00:05,Available,5.0
+ N560DA,C56X,Memphis Intl (KMEM),Sumter (KSMS),Fri 10:20AM CDT,Fri 12:35PM EDT,01:16,Available,76.0
+ PNC7PC,C56X,Beirut Air Base/Rafic Hariri Int'l (Beirut Int'l) (BEY / OLBA),,Fri 06:19PM EEST,,NULL,Not Available,
+ N83SP,C56X,Northeast Florida Rgnl (KSGJ),Naples Muni (KAPF),Fri 11:12AM EDT,Fri 11:56AM EDT,00:44,Available,44.0
+ N853JS,C56X,Dallas Love Field (KDAL),Tampa Intl (KTPA),Fri 10:11AM CDT,Fri 01:19PM EDT,00:07,Available,7.0
+ ECA9C,C56X,Farnborough Airfield (FAB / EGLF),,Fri 04:09PM BST,,NULL,Not Available,
+ GAJ514,C56X,Denton Enterprise (KDTO),Shreveport Rgnl (KSHV),Fri 10:09AM CDT,Fri 10:45AM CDT,00:42,Available,42.0
+ DPJ804,C56X,Penn Valley (KSEG),Raleigh-Durham Intl (KRDU),Fri 11:03AM EDT,Fri 11:57AM EDT,00:54,Available,54.0
+ EJA655,C56X,Battle Creek Executive At Kellogg Field (KBTL),Battle Creek Executive At Kellogg Field (KBTL),Fri 11:03AM EDT,Fri 11:34AM EDT,04:21,Available,261.0
+ DPJ785,C56X,Oakland County Intl (KPTK),East Hampton (KHTO),Fri 11:00AM EDT,Fri 12:29PM EDT,01:19,Available,79.0
+ N144XL,C56X,Gillespie County (T82),Sugar Land Rgnl (KSGR),Fri 09:57AM CDT,Fri 10:44AM CDT,00:38,Available,38.0
+ AAB524,C56X,Lannion (LAI / LFRO),,Fri 04:56PM CEST,,NULL,Not Available,
+ N814BR,C56X,Lubbock Smith Intl (KLBB),Fort Worth Meacham Intl (KFTW),Fri 09:52AM CDT,Fri 10:37AM CDT,00:45,Available,45.0
+ EJA648,C56X,Dallas Love Field (KDAL),Austin-Bergstrom Intl (KAUS),Fri 09:52AM CDT,Fri 10:35AM CDT,00:34,Available,34.0
+ SOW5,C56X,Linz (Blue Danube) (LNZ / LOWL),,Fri 04:51PM CEST,,NULL,Not Available,
+ ATL7H,C56X,Near Mnichovo Hradi_t_,,Fri 04:50PM CEST,,NULL,Not Available,
+ N832JS,C56X,Eppley Airfield (KOMA),Truckee-Tahoe (KTRK),Fri 09:50AM CDT,Fri 10:51AM PDT,03:03,Available,183.0
+ N719TT,C56X,Sugar Land Rgnl (KSGR),Centennial (KAPA),Fri 09:41AM CDT,Fri 10:42AM MDT,02:07,Available,127.0
+ SPG261,C56X,Marseille Provence (MRS / LFML),,Fri 04:40PM CEST,,NULL,Not Available,
+ N833JS,C56X,Dallas Love Field (KDAL),Jackson Hole (KJAC),Fri 09:38AM CDT,Fri 11:09AM MDT,02:30,Available,150.0
+ N11EH,C56X,Destin Executive (KDTS),Saline County Rgnl (KSUZ),Fri 09:34AM CDT,Fri 10:42AM CDT,01:07,Available,67.0
+ N75HW,C56X,Coeur D'Alene - Pappy Boyington Field (KCOE),San Jose Int'l (KSJC),Fri 07:30AM PDT,Fri 09:21AM PDT,01:51,Available,111.0
+ JTL400,C56X,Cherry Capital (KTVC),Wiley Post (KPWA),Fri 10:23AM EDT,Fri 11:46AM CDT,02:26,Available,146.0
+ N869JS,C56X,Morristown Muni (KMMU),Chicago Executive (KPWK),Fri 10:19AM EDT,Fri 11:12AM CDT,01:56,Available,116.0
+ LNX21AX,C56X,Berlin (SXF / EDDB),,Fri 04:19PM CEST,,NULL,Not Available,
+ EJA577,C56X,Will Rogers World (KOKC),Billings Logan Intl (KBIL),Fri 09:06AM CDT,Fri 10:14AM MDT,02:08,Available,128.0
+ N2,C56X,Reagan National (KDCA),,Fri 09:52AM EDT,,NULL,Not Available,
+ N803JS,C56X,Jackson Hole (KJAC),Searcy Muni (KSRC),Fri 07:23AM MDT,Fri 11:04AM CDT,03:09,Available,189.0
+ EJA634,C56X,Henry County (KPHT),Telluride Rgnl (KTEX),Fri 08:18AM CDT,Fri 09:54AM MDT,02:44,Available,164.0
+ N845JS,C56X,Columbus Muni (KBAK),Pueblo Memorial (KPUB),Fri 09:14AM EDT,Fri 09:47AM MDT,02:24,Available,144.0
+ AHO364G,C56X,Riga Int'l (RIX / EVRA),,Fri 04:07PM EEST,,NULL,Not Available,
+ EJA657,C56X,East Hampton (KHTO),Tampa Intl (KTPA),Fri 09:05AM EDT,Fri 11:39AM EDT,02:27,Available,147.0
+ EJA685,C56X,Witham Field (KSUA),Westchester County (KHPN),Fri 09:05AM EDT,Fri 11:41AM EDT,03:18,Available,198.0

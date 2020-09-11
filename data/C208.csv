@@ -1,0 +1,106 @@
+Ident,Type,Origin,Destination,Departure,Estimated Arrival Time,Estimated Time Enroute
+ CFS100,C208,Albuquerque Intl Sunport (KABQ),Albuquerque Intl Sunport (KABQ),Fri 09:31AM MDT,Fri 09:53AM MDT,00:20
+ N928JP,C208,Burley Muni (KBYI),,Fri 09:30AM MDT,,
+ N4751W,C208,Salt Lake City Intl (KSLC),,Fri 09:27AM MDT,,
+ PCM8706,C208,McCarran Intl (KLAS),Cedar City Rgnl (KCDC),Fri 08:27AM PDT,Fri 10:33AM MDT,01:05
+ N220EA,C208,Sebastian Muni (X26),,Fri 11:26AM EDT,,
+ BXR335,C208,Redding Muni (KRDD),Siskiyou County (KSIY),Fri 08:25AM PDT,Fri 09:06AM PDT,00:40
+ N912FE,C208,N Platte Rgnl (KLBF),Eppley Airfield (KOMA),Fri 10:24AM CDT,Fri 11:42AM CDT,00:53
+ BEZ413,C208,Luis Munoz Marin Intl (SJU / TJSJ),,Fri 11:24AM AST,,
+ SLQ712,C208,Vancouver Int'l (CYVR),Victoria Int'l (CYYJ),Fri 08:24AM PDT,Fri 08:38AM PDT,00:14
+ N194SM,C208,Victoria Rgnl (KVCT),,Fri 10:23AM CDT,,
+ N9680B,C208,"Near Long Beach, CA",,Fri 08:23AM PDT,,
+ PCM8685,C208,San Diego Intl (KSAN),Imperial County (KIPL),Fri 08:22AM PDT,Fri 09:07AM PDT,00:45
+ N279PM,C208,Hays Rgnl (KHYS),Hutchinson Rgnl (KHUT),Fri 10:22AM CDT,Fri 10:54AM CDT,00:30
+ PCM8658,C208,Sacramento Intl (KSMF),Jack Mc Namara Field (KCEC),Fri 08:22AM PDT,Fri 09:52AM PDT,01:30
+ FDY232,C208,Dubois Rgnl (KDUJ),Pittsburgh Intl (KPIT),Fri 11:22AM EDT,Fri 11:49AM EDT,00:35
+ BEZ1403,C208,Luis Munoz Marin Intl (SJU / TJSJ),,Fri 11:18AM AST,,
+ CPT8834,C208,Great Falls Intl (KGTF),Bozeman Yellowstone Intl (KBZN),Fri 09:17AM MDT,Fri 10:17AM MDT,01:00
+ N463DB,C208,"Near Grand Marais, MN",,Fri 10:17AM CDT,,
+ PCM8204,C208,Sacramento Intl (KSMF),Redding Muni (KRDD),Fri 08:17AM PDT,Fri 09:07AM PDT,00:50
+ CFS8800,C208,Spokane Intl (KGEG),Eastern Oregon Rgnl (KPDT),Fri 08:14AM PDT,Fri 09:14AM PDT,01:00
+ CFS8801,C208,Phoenix Sky Harbor Intl (KPHX),Lake Havasu City (KHII),Fri 08:13AM MST,Fri 09:27AM MST,01:27
+ WIG8101,C208,Luis Munoz Marin Intl (SJU / TJSJ),Princess Juliana Int'l (SXM / TNCM),Fri 11:13AM AST,Fri 11:56AM AST,00:42
+ CFS8695,C208,Seattle-Tacoma Intl (KSEA),Orcas Island (KORS),Fri 08:13AM PDT,Fri 09:03AM PDT,00:32
+ N820FE,C208,Garden City Rgnl (KGCK),Wichita Eisenhower (KICT),Fri 10:13AM CDT,Fri 11:09AM CDT,01:02
+ N347KA,C208,Molokai (MKK / PHMK),,Fri 05:12AM HST,,
+ N723FX,C208,Mc Cook Ben Nelson Rgnl (KMCK),Eppley Airfield (KOMA),Fri 10:12AM CDT,Fri 11:32AM CDT,01:20
+ PCM8798,C208,McCarran Intl (KLAS),St George Rgnl (KSGU),Fri 08:11AM PDT,Fri 10:02AM MDT,00:50
+ CFS8657,C208,Seattle-Tacoma Intl (KSEA),William R Fairchild Intl (KCLM),Fri 08:10AM PDT,Fri 08:45AM PDT,00:29
+ CPT8796,C208,Great Falls Intl (KGTF),Wokal Field/Glasgow-Valley County (KGGW),Fri 09:10AM MDT,Fri 10:26AM MDT,01:15
+ CFS8699,C208,Seattle-Tacoma Intl (KSEA),Bellingham Intl (KBLI),Fri 08:09AM PDT,Fri 08:56AM PDT,00:45
+ PCM8731,C208,Sacramento Intl (KSMF),California Redwood Coast-Humboldt County (KACV),Fri 08:09AM PDT,Fri 09:29AM PDT,01:20
+ FDY307,C208,Bradford Rgnl (KBFD),Pittsburgh Intl (KPIT),Fri 11:08AM EDT,Fri 11:50AM EDT,00:46
+ PCM8684,C208,San Diego Intl (KSAN),Imperial County (KIPL),Fri 08:07AM PDT,Fri 08:52AM PDT,00:45
+ CFS8670,C208,Portland Intl (KPDX),Southwest Oregon Rgnl (KOTH),Fri 08:06AM PDT,Fri 09:01AM PDT,00:59
+ PCM8650,C208,Sacramento Intl (KSMF),Ukiah Muni (KUKI),Fri 08:06AM PDT,Fri 08:46AM PDT,00:40
+ CFS8746,C208,Spokane Intl (KGEG),Lewiston-Nez Perce County (KLWS),Fri 08:05AM PDT,Fri 09:05AM PDT,01:00
+ CFS8812,C208,Phoenix Sky Harbor Intl (KPHX),Yuma Intl (KNYL),Fri 08:04AM MST,Fri 09:07AM MST,00:57
+ PCM8662,C208,Ontario Intl (KONT),Meadows Field (KBFL),Fri 08:04AM PDT,Fri 08:55AM PDT,00:50
+ CFS8692,C208,Portland Intl (KPDX),Roberts Field (KRDM),Fri 08:04AM PDT,Fri 08:51AM PDT,00:40
+ CFS8977,C208,Phoenix Sky Harbor Intl (KPHX),Flagstaff Pulliam (KFLG),Fri 08:04AM MST,Fri 08:46AM MST,00:42
+ N717HP,C208,Ohio State University (KOSU),,Fri 11:04AM EDT,,
+ CPT8772,C208,Great Falls Intl (KGTF),Bozeman Yellowstone Intl (KBZN),Fri 09:02AM MDT,Fri 09:42AM MDT,01:00
+ IRO761,C208,Houghton County Memorial (KCMX),Ford (KIMT),Fri 11:00AM EDT,Fri 10:33AM CDT,00:30
+ KMK8,C208,Hickam Field (PHIK),,Fri 05:00AM HST,,
+ PCM8694,C208,Ontario Intl (KONT),San Luis County Rgnl (KSBP),Fri 07:59AM PDT,Fri 09:19AM PDT,01:20
+ CPT8589,C208,Bemidji Rgnl (KBJI),Hector Intl (KFAR),Fri 09:59AM CDT,Fri 10:34AM CDT,00:37
+ CFS8511,C208,Seattle-Tacoma Intl (KSEA),Skagit Rgnl (KBVS),Fri 07:58AM PDT,Fri 08:34AM PDT,00:25
+ IRO888,C208,Chippewa County Intl (KCIU),Gerald R Ford Intl (KGRR),Fri 10:58AM EDT,Fri 12:17PM EDT,01:14
+ N80JF,C208,Lake Wales Muni (X07),,Fri 10:58AM EDT,,
+ CFS8675,C208,Portland Intl (KPDX),Crater Lake-Klamath Rgnl (KLMT),Fri 07:57AM PDT,Fri 09:24AM PDT,01:42
+ PCM8749,C208,Ontario Intl (KONT),Santa Maria (KSMX),Fri 07:57AM PDT,Fri 09:17AM PDT,01:20
+ N215TX,C208,El Paso Intl (KELP),,Fri 08:57AM MDT,,
+ KMK236,C208,Hickam Field (PHIK),,Fri 04:56AM HST,,
+ N716BT,C208,Wayne County (KBJJ),,Fri 10:55AM EDT,,
+ MAL8084,C208,Sudbury (Greater Sudbury) (CYSB),Sault Ste. Marie (CYAM),Fri 10:55AM EDT,Fri 11:59AM EDT,01:06
+ ACO2120,C208,Mason City Muni (KMCW),Minneapolis/St Paul Intl (KMSP),Fri 09:54AM CDT,Fri 10:33AM CDT,00:50
+ PCM8683,C208,Ontario Intl (KONT),Inyokern (KIYK),Fri 07:54AM PDT,Fri 08:54AM PDT,01:00
+ APC1974,C208,Portland Intl (KPDX),Southwest Oregon Rgnl (KOTH),Fri 07:54AM PDT,Fri 09:04AM PDT,01:10
+ N228DA,C208,Portland Intl (KPDX),,Fri 07:54AM PDT,,
+ ACO2203,C208,St Louis Lambert Intl (KSTL),Fort Dodge Rgnl (KFOD),Fri 09:52AM CDT,Fri 12:23PM CDT,02:30
+ N807FE,C208,Abilene Rgnl (KABI),Lubbock Smith Intl (KLBB),Fri 09:52AM CDT,Fri 10:52AM CDT,00:52
+ CFS8775,C208,Phoenix Sky Harbor Intl (KPHX),Flagstaff Pulliam (KFLG),Fri 07:52AM MST,Fri 08:36AM MST,01:00
+ CFS8799,C208,Spokane Intl (KGEG),Pangborn Memorial (KEAT),Fri 07:51AM PDT,Fri 08:41AM PDT,00:42
+ PCM8654,C208,Ontario Intl (KONT),General Wm J Fox Airfield (KWJF),Fri 07:49AM PDT,Fri 08:39AM PDT,00:50
+ FDY802,C208,Los Angeles Intl (KLAX),Imperial County (KIPL),Fri 07:48AM PDT,Fri 08:55AM PDT,01:26
+ CFS8802,C208,Phoenix Sky Harbor Intl (KPHX),Yuma Intl (KNYL),Fri 07:48AM MST,Fri 08:53AM MST,00:57
+ N773FE,C208,Kearney Rgnl (KEAR),Eppley Airfield (KOMA),Fri 09:48AM CDT,Fri 10:48AM CDT,01:00
+ IRO8416,C208,Bangor Intl (KBGR),N Maine (KPQI),Fri 10:48AM EDT,Fri 11:36AM EDT,00:45
+ CFS8667,C208,Portland Intl (KPDX),Roberts Field (KRDM),Fri 07:45AM PDT,Fri 08:40AM PDT,00:40
+ N108AN,C208,Alamogordo Rgnl (KALM),Albuquerque Intl Sunport (KABQ),Fri 08:45AM MDT,Fri 09:53AM MDT,01:27
+ N588PS,C208,Las Cruces Intl (KLRU),,Fri 08:42AM MDT,,
+ CFS8686,C208,Portland Intl (KPDX),Southwest Oregon Rgnl (KOTH),Fri 07:42AM PDT,Fri 08:42AM PDT,00:59
+ N720FX,C208,San Angelo Rgnl (KSJT),Austin-Bergstrom Intl (KAUS),Fri 09:42AM CDT,Fri 10:44AM CDT,00:53
+ WMA517,C208,Congo Town (TZN / MYAK),Fort Lauderdale Executive (KFXE),Fri 10:41AM EDT,Fri 12:03PM EDT,00:56
+ FDY445,C208,Dallas-Fort Worth Intl (KDFW),Memorial Field (KHOT),Fri 09:36AM CDT,Fri 10:58AM CDT,01:19
+ N220EA,C208,Sebastian Muni (X26),,Fri 10:34AM EDT,,
+ N208NR,C208,Mc Call Muni (KMYL),,Fri 08:31AM MDT,,
+ N146WM,C208,"Near Congo Town, Andros",,Fri 10:31AM EDT,,
+ FDY405,C208,Dallas-Fort Worth Intl (KDFW),Boone County (KHRO),Fri 09:29AM CDT,Fri 11:03AM CDT,01:47
+ PCM8712,C208,Metropolitan Oakland Intl (KOAK),Visalia Muni (KVIS),Fri 07:27AM PDT,Fri 08:37AM PDT,01:10
+ FDY155,C208,Lancaster (KLNS),Pittsburgh Intl (KPIT),Fri 10:26AM EDT,Fri 11:41AM EDT,01:16
+ SUB1349,C208,Orlando Intl (KMCO),Savannah/Hilton Head Intl (KSAV),Fri 10:26AM EDT,Fri 11:59AM EDT,01:30
+ N894FE,C208,San Angelo Rgnl (KSJT),Austin-Bergstrom Intl (KAUS),Fri 09:25AM CDT,Fri 10:33AM CDT,00:55
+ N1293E,C208,Airglades (2IS),,Fri 10:24AM EDT,,
+ SD1,C208,Wiener Neustadt West (LOXN),,Fri 04:23PM CEST,,
+ CFS8678,C208,Portland Intl (KPDX),Rogue Valley Intl (KMFR),Fri 07:22AM PDT,Fri 08:54AM PDT,01:30
+ BXR1524,C208,Sacramento Mather (KMHR),California Redwood Coast-Humboldt County (KACV),Fri 07:22AM PDT,Fri 08:39AM PDT,00:47
+ FDY423,C208,Dallas-Fort Worth Intl (KDFW),S Arkansas Regional (KELD),Fri 09:20AM CDT,Fri 10:37AM CDT,01:16
+ N8741D,C208,"Near Hobart, OK",,Fri 09:17AM CDT,,
+ N463DB,C208,"Near Ely, MN",,Fri 09:14AM CDT,,
+ N80JF,C208,Lake Wales Muni (X07),,Fri 10:13AM EDT,,
+ N843SA,C208,Salt Lake City Intl (KSLC),,Fri 08:11AM MDT,,
+ CPT8563,C208,Hector Intl (KFAR),Minot Intl (KMOT),Fri 09:11AM CDT,Fri 10:34AM CDT,01:27
+ CPT8827,C208,Salt Lake City Intl (KSLC),Friedman Memorial (KSUN),Fri 08:08AM MDT,Fri 09:38AM MDT,01:23
+ N282MW,C208,San Gabriel Valley (KEMT),Sacramento Executive (KSAC),Fri 07:07AM PDT,Fri 09:02AM PDT,01:58
+ ACO2301,C208,St Louis Lambert Intl (KSTL),Mc Kellar-Sipes Rgnl (KMKL),Fri 09:06AM CDT,Fri 10:34AM CDT,01:35
+ PCM8656,C208,Ontario Intl (KONT),Santa Maria (KSMX),Fri 07:06AM PDT,Fri 08:41AM PDT,01:10
+ PCM8682,C208,Ontario Intl (KONT),Santa Maria (KSMX),Fri 06:54AM PDT,Fri 08:45AM PDT,01:20
+ MAL8940,C208,Thunder Bay Int'l (Thunder Bay) (CYQT),Winnipeg Int'l (CYWG),Fri 09:44AM EDT,Fri 10:46AM CDT,02:31
+ N593TC,C208,New Richmond Rgnl (KRNH),,Fri 08:29AM CDT,,
+ N33NH,C208,Peter O Knight (KTPF),Destin Executive (KDTS),Fri 09:18AM EDT,Fri 10:37AM CDT,01:43
+ N9421F,C208,"Near Atlanta, GA",,Fri 09:07AM EDT,,
+ N593EX,C208,Denton Enterprise (KDTO),Chicago Executive (KPWK),Fri 06:37AM CDT,Fri 10:35AM CDT,04:05
+ N208PC,C208,Near ,,Fri 10:48AM CEST,,
+ N105VE,C208,"Near Linz, Upper Austria",,Fri 10:13AM CEST,,

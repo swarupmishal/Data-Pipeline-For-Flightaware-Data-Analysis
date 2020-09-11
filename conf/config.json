@@ -1,0 +1,6 @@
+{
+    "url": "https://flightaware.com/live/aircrafttype/",
+    "path_to_driver": "D:\\Career-Growth\\Assessments\\magniX\\exploratory_flightaware_data_analysis\\conf\\chromedriver.exe",
+    "data_dir": "D:\\Career-Growth\\Assessments\\magniX\\exploratory_flightaware_data_analysis\\data\\",
+    "aircraft_names": ["Pilatus PC-12", "Cessna Caravan", "Beechcraft Super King Air 200", "Cessna Citation Excel/XLS"]
+}
