@@ -1,4 +1,4 @@
-# Exploratory Flightaware Data Analysis
+# Data Pipeline for Flightaware Data Analysis
 
 ## Introduction
 I have developed an automated app called “Exploratory FlightAware Data Analysis” to fetch aircraft data from the [FlightAware website.](https://flightaware.com/live/aircrafttype/) The app fetches requested aircraft data and builds some analysis on top of it.
