@@ -1,10 +1,10 @@
 # Data Pipeline for Flightaware Data Analysis
 
 ## Introduction
-I have developed an automated app called “Exploratory FlightAware Data Analysis” to fetch aircraft data from the [FlightAware website.](https://flightaware.com/live/aircrafttype/) The app fetches requested aircraft data and builds some analysis on top of it.
+I have built an automated data pipeline to fetch aircraft data from the [FlightAware website.](https://flightaware.com/live/aircrafttype/) The app fetches requested aircraft data and builds some analysis on top of it.
 
 ## Pre-requisites
-The app is developed using in Python. Most of the libraries used for developing the tool are from the Standard Python libraries. One needs to make sure the virtual environment used for running the tool has the following external modules installed,
+The data pipeline is developed using in Python. Most of the libraries used for developing the tool are from the Standard Python libraries. One needs to make sure the virtual environment used for running the tool has the following external modules installed,
 *	BeautifulSoup
 *	Selenium
 *	Pandas
