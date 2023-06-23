@@ -1,6 +1,7 @@
 # Data Pipeline for Flightaware Data Analysis
-
+![FlightAware-JetBlue-flights](https://github.com/swarupmishal/Data-Pipeline-For-Flightaware-Data-Analysis/assets/25344771/2f362363-098d-4932-84ed-34b058b4700d)
 ## Introduction
+
 I have built an automated data pipeline to fetch aircraft data from the [FlightAware website.](https://flightaware.com/live/aircrafttype/) The app fetches requested aircraft data and builds some analysis on top of it.
 
 ## Pre-requisites
